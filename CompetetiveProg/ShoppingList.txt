@@ -1,0 +1,43 @@
+Print PETG, 0.4mm nozzle, 0.5mm line width, 0.2mm Layer height
+
+AimingSight			x2
+DrillAdapterTool		x1	For exercising geer after printing
+DrillAdapterTool2		x1	For exercising geer after printing
+ElectronicsCase			x1
+ElectronicsCaseCover		x1
+HeadCollar			x1
+HeadMount			x1	Install Home Depot 1/4"20x1" SS screw 
+ModularPlanetaryGear_Body	x6
+MotorCoupling			x1
+MotorMount			x1
+MountSpacer			x1	Default prints 2mm to compensate thickness of washers on last section.  I printed mine at 1.6mm for adiquite thickness so that the HeadMount does not wobble, adjust accordingly.
+StepperDriverSupport		x1	To support Stepper driver board on Prototype PCB Solderable Breadboard (M3x8 screw)
+TransmissionPlate		x6	Attach to planetary gears with M4 screws and 2x plastic washers on each. Used to engauge the next sun gear in the lineup.
+
+
+
+https://www.amazon.com/gp/product/B07ZYNWJ1S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B07KC9C6H5/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B07CJYSL2T/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B076KDFSGT/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B01D4V3UCQ/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B07NRWY7CF/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B00PRY1792/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+
+https://www.amazon.com/gp/product/B06XQMBDMX/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+
+https://www.amazon.com/Blaster-16-TDL-Advanced-Lube-Teflon/dp/B0002JM8HM/ref=sr_1_5?dchild=1&keywords=blaster+dry+lube&qid=1587953011&sr=8-5
+
+https://www.homedepot.com/p/Everbilt-1-4-in-20-x-1-in-Phillips-Oval-Stainless-Steel-Machine-Screw-2-Pack-801931/204274883
+
+https://www.amazon.com/Jackery-Portable-Pocket-Sized-Emergency-Flashlight/dp/B00DTXA578/ref=sr_1_1_sspa?crid=1H7NDHB1A31D5&dchild=1&keywords=jackery+portable+charger&qid=1587952138&sprefix=jackery%2Caps%2C151&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMUZVVk5ON1pUTlg5JmVuY3J5cHRlZElkPUEwNjc1MzI4NVE0VFNQV05XVkxBJmVuY3J5cHRlZEFkSWQ9QTEwNDEzMTEyNjJUMTZIVjZOTDNKJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+
+https://www.amazon.com/Manfrotto-190XPROB-Tripod-496RC2-Black/dp/B00FZHWEYS/ref=sr_1_20?crid=12HJHL8W8B7PN&dchild=1&keywords=manfrotto+tripod+190xpro&qid=1587952446&sprefix=manfrotto+tripod+190%2Caps%2C151&sr=8-20
+
+https://www.amazon.com/GorillaPod-Professional-Ballhead-Mirrorless-Charcoal/dp/B074WG19MP/ref=sr_1_2?crid=8F6TPUYKB0ON&dchild=1&keywords=gorillapod+camera+tripod&qid=1587952511&sprefix=gorilla+pod%2Caps%2C156&sr=8-2
